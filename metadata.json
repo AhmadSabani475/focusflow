@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Smart Daily Task Manager with AI to help you achieve goals via weekly checkpoints and AI-generated daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
